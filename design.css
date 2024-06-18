@@ -1,0 +1,177 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Verdana,;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(https://www.profitapeten.de/media/image/cf/81/g0/226706_scan_1.jpg);
+}
+
+header {
+    background-color: #3f3f3f;
+    color: #fff;
+    padding: 10px;
+    display:flex;
+    justify-content: space-evenly;
+    border-bottom-left-radius:1ch;
+    border-bottom-right-radius:1ch;
+    
+
+}
+.text1 {
+    color: antiquewhite;
+}
+
+nav {
+    background-color: #f4f4f4;
+    padding: 1%;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+nav ul li {
+    display:inline;
+    margin-right: 40px;
+}
+
+button {
+    background-color: #333;
+    color: #fff;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+.aboba1 {
+    width: 20%;
+    margin: 20 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    background-color: antiquewhite;
+}
+.aboba2 {
+    width: 20%;
+    margin: 20 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    background-color: antiquewhite;
+}
+.aboba3 {
+    width: 20%;
+    margin: 20 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    background-color: antiquewhite;
+}
+.aboba4 {
+    width: 20%;
+    margin: 20 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    background-color: antiquewhite;
+}
+.aboba5 {
+    width: 20%;
+    margin: 20 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    background-color: antiquewhite;
+}
+.aboba6 {
+    width: 20%;
+    margin: 20 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    background-color: antiquewhite;
+}
+
+.amogus {
+    display: flex;
+    justify-content:space-evenly;
+
+}
+.navig {
+    border-radius: 15px;
+    width: 30pc;
+}
+.img1{
+    height: 1050px;
+    margin-top: 150px;
+}
+a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+.devka{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.haha{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 100px;
+}
+.pipi{
+    margin-top: 300px;
+    margin-bottom: 40px;
+}
+.catalog{
+    text-align: center;
+}
+footer{
+    a:link {
+        color: white;
+        background-color: transparent;
+        text-decoration: none;
+    }
+    a:visited {
+        color: grey;
+        background-color: transparent;
+        text-decoration: none;
+    }
+    a:hover {
+        color: red;
+        background-color: transparent;
+        text-decoration: underline;
+    }
+    a:active {
+        color: yellow;
+        background-color: transparent;
+        text-decoration: underline;
+}
+}
